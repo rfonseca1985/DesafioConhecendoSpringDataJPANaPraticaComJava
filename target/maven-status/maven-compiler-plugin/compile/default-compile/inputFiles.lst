@@ -1,0 +1,12 @@
+/home/rf0n53c485/IdeaProjects/projeto_backend/src/main/java/com/rfonseca985/projeto_backend/view/model/ProdutoRequest.java
+/home/rf0n53c485/IdeaProjects/projeto_backend/src/main/java/com/rfonseca985/projeto_backend/view/model/ProdutoResponse.java
+/home/rf0n53c485/IdeaProjects/projeto_backend/src/main/java/com/rfonseca985/projeto_backend/model/error/ErrorMessage.java
+/home/rf0n53c485/IdeaProjects/projeto_backend/src/main/java/com/rfonseca985/projeto_backend/view/controller/ProdutoController.java
+/home/rf0n53c485/IdeaProjects/projeto_backend/src/main/java/com/rfonseca985/projeto_backend/repository/ProdutoRepositoryOld.java
+/home/rf0n53c485/IdeaProjects/projeto_backend/src/main/java/com/rfonseca985/projeto_backend/handler/RestExcepitionHandler.java
+/home/rf0n53c485/IdeaProjects/projeto_backend/src/main/java/com/rfonseca985/projeto_backend/services/ProdutoService.java
+/home/rf0n53c485/IdeaProjects/projeto_backend/src/main/java/com/rfonseca985/projeto_backend/model/excepition/ResourceNotFoundExcepition.java
+/home/rf0n53c485/IdeaProjects/projeto_backend/src/main/java/com/rfonseca985/projeto_backend/shared/ProdutoDTO.java
+/home/rf0n53c485/IdeaProjects/projeto_backend/src/main/java/com/rfonseca985/projeto_backend/ProjetoBackendApplication.java
+/home/rf0n53c485/IdeaProjects/projeto_backend/src/main/java/com/rfonseca985/projeto_backend/repository/ProdutoRepository.java
+/home/rf0n53c485/IdeaProjects/projeto_backend/src/main/java/com/rfonseca985/projeto_backend/model/Produto.java

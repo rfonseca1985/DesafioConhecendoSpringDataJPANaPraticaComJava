@@ -1,0 +1,12 @@
+com/rfonseca985/projeto_backend/model/Produto.class
+com/rfonseca985/projeto_backend/model/error/ErrorMessage.class
+com/rfonseca985/projeto_backend/services/ProdutoService.class
+com/rfonseca985/projeto_backend/model/excepition/ResourceNotFoundExcepition.class
+com/rfonseca985/projeto_backend/view/controller/ProdutoController.class
+com/rfonseca985/projeto_backend/ProjetoBackendApplication.class
+com/rfonseca985/projeto_backend/repository/ProdutoRepositoryOld.class
+com/rfonseca985/projeto_backend/handler/RestExcepitionHandler.class
+com/rfonseca985/projeto_backend/view/model/ProdutoResponse.class
+com/rfonseca985/projeto_backend/view/model/ProdutoRequest.class
+com/rfonseca985/projeto_backend/shared/ProdutoDTO.class
+com/rfonseca985/projeto_backend/repository/ProdutoRepository.class
